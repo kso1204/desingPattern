@@ -2,6 +2,7 @@
 
 namespace App\Repository;
 
+use App\Interfaces\eReaderInterface;
 
 class Kindle implements eReaderInterface{
 

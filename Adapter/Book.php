@@ -2,6 +2,7 @@
 
 namespace App\Repository;
 
+use App\Interfaces\BookInterface;
 
 
 class Book implements BookInterface{
