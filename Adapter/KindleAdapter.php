@@ -2,6 +2,8 @@
 
 namespace App\Repository;
 
+use App\Interfaces\BookInterface;
+
 class KindleAdapter implements BookInterface {
     
 
